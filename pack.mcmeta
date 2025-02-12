@@ -1,6 +1,7 @@
 {
    "pack": {
-      "pack_format": 34,
+      "pack_format": 13,
+      "supported_formats": [13, 9999],
       "description": "§cMankind Is Dead. Blood Is Fuel. Hell Is Full."
    }
 }
